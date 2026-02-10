@@ -55,40 +55,33 @@
       "a7": "https://i.postimg.cc/8Cn83Q1D/d7.jpg",
       "a8": "https://i.postimg.cc/g0B95FYz/d8.jpg",
       "pass": "5 passengers"
-    }
-  },
-  {
+    },
     "maybach_mercedes_sclass": {
       "a1": "https://i.ibb.co/MyPsLDw4/g1.jpg",
       "a2": "https://i.ibb.co/Z1NFydTb/g2.jpg",
       "a3": "https://i.ibb.co/chy4Fy7n/g3.jpg",
       "pass": "4 passengers"
-    }
-  },
-  {
+    },
     "coperate_blue_2025_vclass": {
       "a1": "https://i.ibb.co/JgNJJvW/h1.jpg",
       "a2": "https://i.ibb.co/nswyNZWK/h2.jpg",
       "a3": "https://i.ibb.co/4RHMXMrt/h3.jpg",
       "a4": "https://i.ibb.co/JFktdYcb/h4.jpg",
       "pass": "6 passengers"
-    }
-  },
-  {
+    },
     "pumkin_orange_sprinter": {
       "a1": "https://i.ibb.co/YTQNqrsD/i1.jpg",
       "a2": "https://i.ibb.co/0j4PnQDV/i2.jpg",
       "a3": "https://i.ibb.co/tT0QdpP3/i3.jpg",
       "a4": "https://i.ibb.co/JwwTPhJZ/i4.jpg",
       "pass": "8 passengers"
-    }
-  },
-  {
-    "lamborghini_urus_yellow": {
+    },
+  
+  "lamborghini_urus_yellow": {
       "a1": "https://i.ibb.co/gbQV04ZL/j1.jpg",
       "a2": "https://i.ibb.co/fVVm768j/j2.jpg",
       "a3": "https://i.ibb.co/V0gDwQ7j/j3.jpg",
       "pass": "4 passengers"
-    }
+    
   }
-]
+}]
