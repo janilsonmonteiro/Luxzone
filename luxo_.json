@@ -63,5 +63,13 @@
       "preco": 1800,
       "pass": "5 passengers"
     }
+  },
+  {
+    "maybach_mercedes_sclass": {
+      "a1": "https://i.ibb.co/MyPsLDw4/g1.jpg",
+      "a2": "https://i.ibb.co/Z1NFydTb/g2.jpg",
+      "a3": "https://i.ibb.co/chy4Fy7n/g3.jpg",
+      "pass": "4"
+    }
   }
 ]
