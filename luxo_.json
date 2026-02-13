@@ -76,11 +76,12 @@
       "a4": "https://i.ibb.co/JwwTPhJZ/i4.jpg",
       "pass": "8 passengers"
     },
-    "lamborghini_urus_yellow": {
+  
+  "lamborghini_urus_yellow": {
       "a1": "https://i.ibb.co/gbQV04ZL/j1.jpg",
-      "a2": "https://i.ibb.co/xqWXRxSx/j2.jpg",
-      "a3": "https://i.ibb.co/xqqWT90S/j3.jpg",
-      "pass": "4passengers"
-    }
+      "a2": "https://i.ibb.co/fVVm768j/j2.jpg",
+      "a3": "https://i.ibb.co/V0gDwQ7j/j3.jpg",
+      "pass": "4 passengers"
+    
   }
-]
+}]
