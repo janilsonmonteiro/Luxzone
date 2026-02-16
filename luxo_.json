@@ -76,12 +76,19 @@
       "a4": "https://i.ibb.co/JwwTPhJZ/i4.jpg",
       "pass": "8 passengers"
     },
-  
-  "lamborghini_urus_yellow": {
+    "lamborghini_urus_yellow": {
       "a1": "https://i.ibb.co/gbQV04ZL/j1.jpg",
       "a2": "https://i.ibb.co/fVVm768j/j2.jpg",
       "a3": "https://i.ibb.co/V0gDwQ7j/j3.jpg",
       "pass": "4 passengers"
-    
+    },
+    "maybach_vito.": {
+      "a1": "https://i.ibb.co/v4wGXSzf/k1.jpg",
+      "a2": "https://i.ibb.co/kVyB20yh/k2.jpg",
+      "a3": "https://i.ibb.co/8FbDC8V/k3.jpg",
+      "a4": "https://i.ibb.co/4RNkVHKY/k4.jpg",
+      "a5": "https://i.ibb.co/21sPcJ3Q/k5.jpg",
+      "pass": "4passengers"
+    }
   }
-}]
+]
